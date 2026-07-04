@@ -1,4 +1,1 @@
-My first file
-Second line
-Second line
-Second line
+My file content
