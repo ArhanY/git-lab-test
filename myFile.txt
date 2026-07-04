@@ -1,2 +1,3 @@
 My first file
 Second line
+Second line
